@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "type": "module",
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "back end web",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
