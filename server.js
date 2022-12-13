@@ -3,7 +3,7 @@ import session from "express-session";
 import login from "./login.js";
 import bodyParser from "body-parser";
 
-const port = process.env.port || 5001;
+const port = process.env.port || 5002;
 
 const app = express();
 
